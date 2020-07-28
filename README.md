@@ -7,12 +7,5 @@ I'm a business analyst who is transitioning into data science. I love creating t
 
 
 <img align="left" width="200" height="140" src="https://github.com/naiborhujosua/naiborhujosua/blob/master/giphy.gif?raw=true"></a>
-
-
-
-
-
-
-
 - Learning in public on <a href="https://medium.com/@naiborhujosua">Medium</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/josuanaiborhu/">LinkedIn</a> 💼
