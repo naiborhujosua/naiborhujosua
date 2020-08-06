@@ -6,6 +6,6 @@ I'm a business analyst who is transitioning into data scientist. I love creating
 ## Find me around the web 🌎: 
 
 
-<img align="left" width="200" height="140" src="https://github.com/naiborhujosua/naiborhujosua/blob/master/profile.jpg"></a>
+<img align="left" width="200" height="140" src="https://github.com/naiborhujosua/naiborhujosua/blob/master/giphy.gif"></a>
 - Learning in public on <a href="https://medium.com/@naiborhujosua">Medium</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/josuanaiborhu/">LinkedIn</a> 💼
