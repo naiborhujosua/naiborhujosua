@@ -5,12 +5,9 @@ I'm a business analyst who is transitioning into data scientist. I love creating
 ![](https://img.shields.io/badge/Scientific_Python-Volume_I-orange?style=flat)  
 [**My Notes on taking Data Science Courses**](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop) is a repository  about my journey of being data scientist. I try to summarize all the contents in this repository. All of the contents are based on Python and all the statistical libraries and visualization libraries such as pandas, matplotlib, seaborn, and scikit-learn.
 ## Find me around the web 🌎: 
-
+- Learning in public on <a href="https://medium.com/@naiborhujosua">Medium</a> 📹 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/josuanaiborhu/">LinkedIn</a> 💼
 
 [![Naiborhu Josua's github stats](https://github-readme-stats.vercel.app/api?username=naiborhujosua&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats
 )
 
-
-<img align="left" width="200" height="140" src="https://github.com/naiborhujosua/naiborhujosua/blob/master/giphy.gif"></a>
-- Learning in public on <a href="https://medium.com/@naiborhujosua">Medium</a> 📹 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/josuanaiborhu/">LinkedIn</a> 💼
