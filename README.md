@@ -7,6 +7,10 @@ I'm a business analyst who is transitioning into data scientist. I love creating
 ## Find me around the web 🌎: 
 
 
+[![Naiborhu Josua's github stats](https://github-readme-stats.vercel.app/api?username=naiborhujosua&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats
+)
+
+
 <img align="left" width="200" height="140" src="https://github.com/naiborhujosua/naiborhujosua/blob/master/giphy.gif"></a>
 - Learning in public on <a href="https://medium.com/@naiborhujosua">Medium</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/josuanaiborhu/">LinkedIn</a> 💼
