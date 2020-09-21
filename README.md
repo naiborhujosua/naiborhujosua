@@ -2,10 +2,6 @@
 
 I'm a business analyst transitioning into data scientist. I love creating technology to elevate people and building community. I am part of One Year Scholarship of Data Science python track which is initialized by Facebook Developer Circle for anyone who is interested in Data science through [Datacamp](https://www.datacamp.com/profile/josuanaiborhu94). Some technologies I enjoy working with include Python, PostgreSQL,Tableau, and Django.
 
-## Hi there, I'm [Kishan](https://kishan0725.pythonanywhere.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/kishan0725?style=social)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kishan0725&style=flat-square)
-
 <p>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
