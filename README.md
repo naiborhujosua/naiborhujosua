@@ -9,7 +9,7 @@ I'm a business analyst who is transitioning into data scientist. I love creating
 
 ![](https://img.shields.io/badge/Scientific_Python-Volume_I-orange?style=flat)  
 
-[**My Notes on taking Data Science Courses**](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop) is a repository  about my journey of being data scientist. I try to summarize all the contents in this repository. All of the contents are based on Python, the statistical libraries and visualization libraries such as pandas, matplotlib, seaborn, and scikit-learn.
+[**My Notes on taking Data Science Courses**](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop) is a repository  about my journey of being a data scientist. I try to summarize all the contents in this repository. All of the contents are based on Python, the statistical libraries and visualization libraries such as pandas, matplotlib, seaborn, and scikit-learn.
 <br>
 [**My Notes on taking NLP Course**](https://github.com/naiborhujosua/My-NLP-Notes-on-Coursera) is a repository  about my journey of learning NLP. I try to summarize all the contents in this to dive deeper into this field. 
 
