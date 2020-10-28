@@ -16,3 +16,6 @@ I'm a business analyst who is transitioning into data scientist. I love creating
 
 [![Naiborhu Josua's github stats](https://github-readme-stats.vercel.app/api?username=naiborhujosua&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats
 )
+
+---
+[![Twitter Follow](https://img.shields.io/twitter/follow/naiborhu_josua?label=Follow&style=social)](https://twitter.com/naiborhu_josua)
