@@ -25,6 +25,7 @@ Books I am currently reading:
 4. [Build a career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 5. [Think like a Data Scientist](https://www.amazon.com/Think-Like-Scientist-step-step/dp/1633430278)
 6. [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+7. [Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/naiborhu_josua?label=Follow&style=social)](https://twitter.com/naiborhu_josua)
