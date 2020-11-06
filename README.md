@@ -20,13 +20,13 @@ I'm best reached via [LinkedIn](https://www.linkedin.com/in/josuanaiborhu/).
 
 Books I am currently reading:
 ---------------------------
-1. [An Introduction to Statistical Learning](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/ISLR%20Seventh%20Printing.pdf)
-2. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
-3. [Hands on Machine Learning Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_sbs_14_1/147-4712361-4389719?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=906c9159-7e0b-414d-9c72-f1d0466f8f34&pd_rd_w=Xn0sn&pd_rd_wg=bzf5R&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=7MTE4J8VA4RKH0G1E7K3&psc=1&refRID=7MTE4J8VA4RKH0G1E7K3)
+1. [Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
+2. [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+3. [Think like a Data Scientist](https://www.amazon.com/Think-Like-Scientist-step-step/dp/1633430278)
 4. [Build a career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
-5. [Think like a Data Scientist](https://www.amazon.com/Think-Like-Scientist-step-step/dp/1633430278)
-6. [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
-7. [Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
+5. [An Introduction to Statistical Learning](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/ISLR%20Seventh%20Printing.pdf)
+6. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
+7. [Hands on Machine Learning Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_sbs_14_1/147-4712361-4389719?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=906c9159-7e0b-414d-9c72-f1d0466f8f34&pd_rd_w=Xn0sn&pd_rd_wg=bzf5R&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=7MTE4J8VA4RKH0G1E7K3&psc=1&refRID=7MTE4J8VA4RKH0G1E7K3)
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/naiborhu_josua?label=Follow&style=social)](https://twitter.com/naiborhu_josua)
