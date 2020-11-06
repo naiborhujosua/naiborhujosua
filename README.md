@@ -12,7 +12,8 @@ I'm a business analyst who is transitioning into data scientist. I love creating
 [**My Notes on taking Data Science Courses**](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop) is a repository  about my journey of being a data scientist. I try to summarize all the contents in this repository. All of the contents are the statistical concepts, visualization libraries such as pandas, matplotlib, seaborn, and scikit-learn and machine learning algorithms in Python.
 <br>
 [**My Notes on taking Machine Learning with pyspark on Datacamp**](https://github.com/naiborhujosua/Machine-Learning-with-pyspark) is a repository about my journey to learn Machine Learning and the implementation using pyspark.
-<br>
+<br><br>
+I'm best reached via [LinkedIn](https://www.linkedin.com/in/josuanaiborhu/).
 
 [![Naiborhu Josua's github stats](https://github-readme-stats.vercel.app/api?username=naiborhujosua&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats
 )
