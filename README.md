@@ -17,7 +17,7 @@ I'm best reached via [LinkedIn](https://www.linkedin.com/in/josuanaiborhu/).
 
 Books I am currently reading:
 ---------------------------
-1. [Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
+1. [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 2. [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 3. [Web Scraping in Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577/ref=pd_lpo_14_t_0/147-4712361-4389719?_encoding=UTF8&pd_rd_i=1491985577&pd_rd_r=a78ae35b-2da9-4c05-ad3d-a8c7669120d6&pd_rd_w=NwUjn&pd_rd_wg=BauIv&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=7JPYJ54EK9SC1DA0SH2S&psc=1&refRID=7JPYJ54EK9SC1DA0SH2S)
 4.  [Feature Engineering](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241)
