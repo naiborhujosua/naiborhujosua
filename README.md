@@ -24,7 +24,7 @@ Books I am currently reading:
 5. [Practical time series analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/)
 6. [Build a career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 7. [Statistics For Machine Learning](https://machinelearningmastery.com/statistics_for_machine_learning/)
-8. [An Introduction to Statistical Learning](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/ISLR%20Seventh%20Printing.pdf)
+8. [Statistics in Plain English](https://www.amazon.com/Statistics-Course-Pack-Set-Op-dp-1138838349/dp/1138838349/ref=dp_ob_title_bk)
 9. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
 10. [Hands on Machine Learning Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_sbs_14_1/147-4712361-4389719?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=906c9159-7e0b-414d-9c72-f1d0466f8f34&pd_rd_w=Xn0sn&pd_rd_wg=bzf5R&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=7MTE4J8VA4RKH0G1E7K3&psc=1&refRID=7MTE4J8VA4RKH0G1E7K3)
 11. [Always Be Testing: The Complete Guide to Google Website Optimizer](https://www.amazon.com/Always-Be-Testing-Complete-Optimizer/dp/0470290633)
