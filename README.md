@@ -30,6 +30,7 @@ Books I am currently reading:
 11. [Always Be Testing: The Complete Guide to Google Website Optimizer](https://www.amazon.com/Always-Be-Testing-Complete-Optimizer/dp/0470290633)
 12. [Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X) 
 13. [Learning SQL : Generate Manipulate Retrieve Data](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614)  
+14.[Cheatsheet of Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)  
 
 
 
