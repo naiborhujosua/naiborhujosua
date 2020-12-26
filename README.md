@@ -28,9 +28,11 @@ Books I am currently reading:
 9. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
 10. [Hands on Machine Learning Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_sbs_14_1/147-4712361-4389719?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=906c9159-7e0b-414d-9c72-f1d0466f8f34&pd_rd_w=Xn0sn&pd_rd_wg=bzf5R&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=7MTE4J8VA4RKH0G1E7K3&psc=1&refRID=7MTE4J8VA4RKH0G1E7K3)
 11. [Always Be Testing: The Complete Guide to Google Website Optimizer](https://www.amazon.com/Always-Be-Testing-Complete-Optimizer/dp/0470290633)
-12. [Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X) 
+12. [Linux Command Line](https://www.amazon.com/Linux-Command-Line-2nd-Introduction-ebook/dp/B07J43H42Z) 
 13. [Learning SQL : Generate Manipulate Retrieve Data](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614)  
 14. [Cheatsheet of Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)  
+
+
 
 
 
