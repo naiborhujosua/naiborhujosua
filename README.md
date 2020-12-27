@@ -31,6 +31,7 @@ Books I am currently reading:
 12. [Linux Command Line](https://www.amazon.com/Linux-Command-Line-2nd-Introduction-ebook/dp/B07J43H42Z) 
 13. [Learning SQL : Generate Manipulate Retrieve Data](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614)  
 14. [Cheatsheet of Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)  
+15. [Crush It!: Why NOW Is the Time to Cash In on Your Passion] (https://www.amazon.com/Crush-Time-Cash-Your-Passion/dp/0061914177)  
 
 
 
