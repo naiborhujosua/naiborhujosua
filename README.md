@@ -32,6 +32,7 @@ Books I am currently reading:
 13. [Learning SQL : Generate Manipulate Retrieve Data](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614)  
 14. [Cheatsheet of Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)  
 15. [Crush It!: Why NOW Is the Time to Cash In on Your Passion](https://www.amazon.com/Crush-Time-Cash-Your-Passion/dp/0061914177)  
+16. [The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science](https://www.amazon.com/Enterprise-Big-Data-Lake-Delivering/dp/1491931558/ref=sr_1_7?crid=18BW7L91RRQH8&dchild=1&keywords=aws+data+science&qid=1612200849&sprefix=aws+data+sci%2Caps%2C461&sr=8-7)
 
 
 
