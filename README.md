@@ -34,7 +34,7 @@ Books I am currently reading:
 15. [Atomic Habits](https://www.audible.com/pd/Atomic-Habits-Audiobook/1524779261?source_code=GO1DH13310082090OZ&ds_rl=1262685&ds_rl=1263561&ds_rl=1260658&gclid=CjwKCAiAjeSABhAPEiwAqfxURQKrJt-ByDM9dSd-lBIECQQT13e8NPZWFOUfTmdH33YC0Wz_KNkP9BoCj1EQAvD_BwE&gclsrc=aw.ds)  
 16. [The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science](https://www.amazon.com/Enterprise-Big-Data-Lake-Delivering/dp/1491931558/ref=sr_1_7?crid=18BW7L91RRQH8&dchild=1&keywords=aws+data+science&qid=1612200849&sprefix=aws+data+sci%2Caps%2C461&sr=8-7)
 17. [Amazon Web services in action](https://www.manning.com/books/amazon-web-services-in-action) 
-
+18. [The Hype Machine](https://www.amazon.com/Hype-Machine-Disrupts-Elections-Health/dp/0525574514) 
 
 
 
