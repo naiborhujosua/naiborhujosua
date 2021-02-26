@@ -4,7 +4,7 @@ I'm a business analyst who is transitioning into decision scientist. I love crea
 
 
 <p>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/naiborhujosua/naiborhujosua/blob/master/data%20science.jpeg" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <em>
 
