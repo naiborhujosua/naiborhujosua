@@ -27,15 +27,7 @@ Books I am currently reading:
 7. [Statistics For Machine Learning](https://machinelearningmastery.com/statistics_for_machine_learning/)
 8. [Statistics in Plain English](https://www.amazon.com/Statistics-Course-Pack-Set-Op-dp-1138838349/dp/1138838349/ref=dp_ob_title_bk)
 9. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
-10. [Hands on Machine Learning Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_sbs_14_1/147-4712361-4389719?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=906c9159-7e0b-414d-9c72-f1d0466f8f34&pd_rd_w=Xn0sn&pd_rd_wg=bzf5R&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=7MTE4J8VA4RKH0G1E7K3&psc=1&refRID=7MTE4J8VA4RKH0G1E7K3)
-11. [Always Be Testing: The Complete Guide to Google Website Optimizer](https://www.amazon.com/Always-Be-Testing-Complete-Optimizer/dp/0470290633)
-12. [Linux Command Line](https://www.amazon.com/Linux-Command-Line-2nd-Introduction-ebook/dp/B07J43H42Z) 
-13. [Learning SQL : Generate Manipulate Retrieve Data](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614)  
-14. [Cheatsheet of Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)  
-15. [Atomic Habits](https://www.audible.com/pd/Atomic-Habits-Audiobook/1524779261?source_code=GO1DH13310082090OZ&ds_rl=1262685&ds_rl=1263561&ds_rl=1260658&gclid=CjwKCAiAjeSABhAPEiwAqfxURQKrJt-ByDM9dSd-lBIECQQT13e8NPZWFOUfTmdH33YC0Wz_KNkP9BoCj1EQAvD_BwE&gclsrc=aw.ds)  
-16. [The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science](https://www.amazon.com/Enterprise-Big-Data-Lake-Delivering/dp/1491931558/ref=sr_1_7?crid=18BW7L91RRQH8&dchild=1&keywords=aws+data+science&qid=1612200849&sprefix=aws+data+sci%2Caps%2C461&sr=8-7)
-17. [Amazon Web services in action](https://www.manning.com/books/amazon-web-services-in-action) 
-18. [The Hype Machine](https://www.amazon.com/Hype-Machine-Disrupts-Elections-Health/dp/0525574514) 
+
 
 
 
