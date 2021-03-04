@@ -8,7 +8,7 @@ I'm a business analyst who is transitioning into decision scientist. I love crea
 
 <em>
 
-![](https://img.shields.io/badge/Scientific_Python-Volume_I-orange?style=flat)  
+<a href="https://github.com/ellerbrock/open-source-badge/"><img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"></a>
 
 [**My Notes on taking Data Science Courses**](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop) is a repository  about my journey of being a data scientist. I try to summarize all the contents in this repository. All of the contents are the statistical concepts, visualization libraries such as pandas, matplotlib, seaborn, and scikit-learn and machine learning algorithms in Python.
 <br>
