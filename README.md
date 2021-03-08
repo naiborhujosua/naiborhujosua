@@ -14,7 +14,7 @@ I'm a business analyst who is transitioning into decision scientist. I love crea
 <br>
 [**My Notes on taking Machine Learning with pyspark on Datacamp**](https://github.com/naiborhujosua/Machine-Learning-with-pyspark) is a repository about my journey to learn Machine Learning and the implementation using pyspark.
 <br><br>
-I'm best reached via [LinkedIn](https://www.linkedin.com/in/josuanaiborhu/).
+I am also on my way to finish the Not a Real Data Science Degree by [David Venturi](https://davidventuri.medium.com/this-is-not-a-real-data-science-degree-d170c660c1cf).
 
 Books I am currently reading:
 ---------------------------
