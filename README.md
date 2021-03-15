@@ -28,6 +28,7 @@ Books I am currently reading:
 8. [Statistics in Plain English](https://www.amazon.com/Statistics-Course-Pack-Set-Op-dp-1138838349/dp/1138838349/ref=dp_ob_title_bk)
 9. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
 10. [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+11. [Reading research Paper](https://paperswithcode.com)
 
 
 
