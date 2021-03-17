@@ -16,7 +16,7 @@ I'm a business analyst who is transitioning into decision scientist. I love crea
 <br><br>
 I am also on my way to finish the Not a Real Data Science Degree by [David Venturi](https://davidventuri.medium.com/this-is-not-a-real-data-science-degree-d170c660c1cf).
 
-Books I am currently reading:
+### 📝 Recent Reading
 ---------------------------
 1. [Clean code in Python](https://www.packtpub.com/product/clean-code-in-python-second-edition/9781800560215)
 2.  [Practical time series analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/)
@@ -29,6 +29,7 @@ Books I am currently reading:
 9. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
 10. [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 11. [Reading research Paper](https://paperswithcode.com)
+12. [Avoiding Data Pitfalls](https://www.amazon.com/Avoiding-Data-Pitfalls-presenting-visualizations/dp/1119278163)
 
 
 
