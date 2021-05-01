@@ -48,11 +48,8 @@ I am also on my way to finish the Not a Real Data Science Degree by [David Ventu
 
 
 
-
+---
 [![Naiborhu Josua's github stats](https://github-readme-stats.vercel.app/api?username=naiborhujosua&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats
 )
 ---
-<p>
-<h4>💬 Sometimes I like to write what i learned here...</h4>
-  <a href="https://medium.com/https://medium.com/@naiborhujosua"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
+
