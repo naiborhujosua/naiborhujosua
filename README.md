@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Josua Naiborhu 💻 </h1>
+<h1> Hi there 👋, I'm Josua Naiborhu 💻 </h1>
 
 <p>
  I'm a business Development Analyst who is transitioning into decision scientist. I love creating technology to elevate people and building community. I am part of One Year Scholarship of Data Science python track which is initialized by [Facebook Developer Circle](https://developers.facebook.com/developercircles/) for anyone who is interested in Data science through [Datacamp](https://www.datacamp.com/profile/josuanaiborhu94). Some technologies I enjoy learning with include Python, PostgreSQL,Tableau, and PySpark. I am also in the process of learning the usage of AWS in Data Science in [Coursera](https://www.coursera.org/specializations/aws-fundamentals). I also love experimenting my skillset of visualization using [Tableau](https://public.tableau.com/profile/naiborhujosua#!/). 
@@ -49,8 +49,10 @@ I am also on my way to finish the Not a Real Data Science Degree by [David Ventu
 
 
 
-
 [![Naiborhu Josua's github stats](https://github-readme-stats.vercel.app/api?username=naiborhujosua&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats
 )
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/naiborhu_josua?label=Follow&style=social)](https://twitter.com/naiborhu_josua)
+<p>
+<h4>💬 Sometimes I like to write what i learned here...</h4>
+  <a href="https://medium.com/https://medium.com/@naiborhujosua"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
