@@ -1,6 +1,19 @@
-# Hi, I'm Josua Naiborhu 👋🎓💻 
+<h1 align='center'> Hi there 👋, I'm Josua Naiborhu 💻 </h1>
 
-I'm a business Development Analyst who is transitioning into decision scientist. I love creating technology to elevate people and building community. I am part of One Year Scholarship of Data Science python track which is initialized by [Facebook Developer Circle](https://developers.facebook.com/developercircles/) for anyone who is interested in Data science through [Datacamp](https://www.datacamp.com/profile/josuanaiborhu94). Some technologies I enjoy learning with include Python, PostgreSQL,Tableau, and PySpark. I am also in the process of learning the usage of AWS in Data Science in [Coursera](https://www.coursera.org/specializations/aws-fundamentals). I also love experimenting my skillset of visualization using [Tableau](https://public.tableau.com/profile/naiborhujosua#!/). 
+<p>
+ I'm a business Development Analyst who is transitioning into decision scientist. I love creating technology to elevate people and building community. I am part of One Year Scholarship of Data Science python track which is initialized by [Facebook Developer Circle](https://developers.facebook.com/developercircles/) for anyone who is interested in Data science through [Datacamp](https://www.datacamp.com/profile/josuanaiborhu94). Some technologies I enjoy learning with include Python, PostgreSQL,Tableau, and PySpark. I am also in the process of learning the usage of AWS in Data Science in [Coursera](https://www.coursera.org/specializations/aws-fundamentals). I also love experimenting my skillset of visualization using [Tableau](https://public.tableau.com/profile/naiborhujosua#!/). 
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=naiborhujosua.visitor-badge"></a>
+</p>
+
+<p align='center'>
+  <a href="https://twitter.com/naiborhu_josua"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/josuanaiborhu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:josua.naiborhu94@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 
 
 <p>
