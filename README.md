@@ -1,5 +1,5 @@
 Hi, I am Josua. A Full Marathon Finisher who loves Mathematics and Data Science
 <p>
-<img src="https://i.pinimg.com/originals/24/3b/24/243b24ce3b4d9bc259810eeecd67dc20.gif?raw=true"
+<img src="https://camo.githubusercontent.com/c9ae0030225c07d10320982d3f634d984c8e68545a741ffb0807524c6f1db3fd/68747470733a2f2f616e616c7974696373696e73696768742e622d63646e2e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30332f41495f416e696d617465642e6769663f7261773d74727565"
   alt=""width="500" height="280">
 </p>
