@@ -1,5 +1,13 @@
-Hi, I am Josua. A Full Marathon Finisher who loves Mathematics and Data Science
-<p>
-<img src="https://camo.githubusercontent.com/c9ae0030225c07d10320982d3f634d984c8e68545a741ffb0807524c6f1db3fd/68747470733a2f2f616e616c7974696373696e73696768742e622d63646e2e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30332f41495f416e696d617465642e6769663f7261773d74727565"
-  alt=""width="500" height="280">
-</p>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I am Josua. A Full Marathon Finisher who loves Mathematics and Data Science
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/naiborhujosua/naiborhujosua">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiborhujosua&hide=java,php,css,javascript,ApacheConf,Vue,Shell,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/naiborhujosua/naiborhujosua">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naiborhujosua&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="NaiborhuJosua's GitHub Stats" />
+</a>
+
+
