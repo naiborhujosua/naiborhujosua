@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > Statistical Learning, Predictive Modeling, Causal Inference, Network Experimentation,.
 
 
-https://naiborhujosua.medium.com/
+https://leetcode.com/naiborhujosua/
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/naiborhujosua/count.svg)
