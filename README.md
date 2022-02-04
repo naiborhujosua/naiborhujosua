@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > Statistical Learning, Predictive Modeling, Causal Inference, Network Experimentation,.
 
 
-https://github.com/ameizi
+https://naiborhujosua.medium.com/
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/naiborhujosua/count.svg)
