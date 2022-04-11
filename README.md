@@ -1,8 +1,6 @@
- I think AI is akin to building a rocket ship. You need a huge engine and a
-lot of fuel. If you have a large engine and a tiny amount of fuel, you won’t
-make it to orbit. If you have a tiny engine and a ton of fuel, you can’t even
-lift off. To build a rocket you need a huge engine and a lot of fuel.
-<p align="right">- Andrew Ng </p>
+Good input features are essential for successful ML. Feature engineering is close to
+90% of effort in industrial ML.
+<p align="right">- Yoshua Bengio </p>
 
 
 
