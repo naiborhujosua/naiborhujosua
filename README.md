@@ -7,4 +7,4 @@ I love competing in the Hackathon specifically in Machine Learning Competition i
 - [HackerEarth](https://www.hackerearth.com/)
 - [TechGig](https://www.techgig.com/)
 
-You can visit my notes about all things in [Machine Learning Notes](https://naiborhujosua.github.io/mlnotes_josua/)
+:eyes: You can visit my notes about [Machine Learning Notes](https://naiborhujosua.github.io/mlnotes_josua/)
