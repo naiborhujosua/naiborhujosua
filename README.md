@@ -1,6 +1,6 @@
 Hello World :robot:
 
-I am Josua from Indonesia. I am interested in Computer Vision.
+I am Josua from Indonesia. I am interested in MLOps.
 
 I love competing in Machine Learning Competition in Kaggle.
 
