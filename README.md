@@ -1,2 +1,3 @@
-
-<img src="http://url/to/img.png](https://github.com/naiborhujosua/naiborhujosua/blob/master/visualization.jpeg" alt="Visualization">
+<p align="center">
+<img src="https://github.com/naiborhujosua/naiborhujosua/blob/master/visualization.jpeg" alt="Visualization">
+</p>
