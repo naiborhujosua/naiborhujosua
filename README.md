@@ -17,7 +17,7 @@
 - 🌻 I am a Kaggler. Here's my [Kaggle profile](https://www.kaggle.com/naiborhujosua).
 -  :sun_with_face: Interested in Computer Vision, Unsupervised and Supervised Learning Project.
 - 👯 I would love to collaborate on any computer vision, unsupervised and supervised learning pProject.
-- ⚡ Fun fact: I love running :running:. (Jakarta Marathon 2015, Osaka Marathon 2019)
+- ⚡ Fun fact: I love running :running:. (Jakarta Marathon 2015 	:indonesia:, Osaka Marathon 2019 :jp:)
 
 
 <div align="center">
