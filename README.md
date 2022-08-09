@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-- 🌱 I create contents on machine learning and deep learning. Find some of my work [here](https://naiborhujosua.medium.com/).
+- 🌱 I create contents about machine learning and deep learning. Find some of my work [here](https://naiborhujosua.medium.com/).
 - 🌻 I am a Kaggler. Here's my [Kaggle profile](https://www.kaggle.com/naiborhujosua).
 -  :sun_with_face: Interested in Computer Vision, Unsupervised and Supervised Learning Project.
 - 👯 I would love to collaborate on any computer vision, unsupervised and supervised learning project.
