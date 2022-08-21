@@ -20,6 +20,10 @@
 - ⚡ Fun fact: I love running :running:. (Jakarta Marathon 2015 	:indonesia:, Osaka Marathon 2019 :jp:)
 
 
+
+<br/>
+<br/>
+
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@naiborhujosua/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@naiborhujosua/2" alt="Latest medium article">
