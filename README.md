@@ -30,7 +30,7 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@naiborhujosua/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@naiborhujosua/3" alt="Latest medium article" width="900" height="150" > </a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@naiborhujosua/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@naiborhujosua/0" alt="Latest medium article" width="850" height="150" > </a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@naiborhujosua/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@naiborhujosua/0" alt="Latest medium article" width="800" height="150" > </a>
 
 
 
