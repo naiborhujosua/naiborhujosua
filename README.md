@@ -1,6 +1,9 @@
 <!-- ![](https://github.com/naiborhujosua/naiborhujosua/blob/master/GaussianProcessPosteriorPredictive_ManimCE_v0.9.0.gif) -->
 <!-- ![1500x500](https://user-images.githubusercontent.com/13548560/204091126-0dd3c9a4-89dd-4b9c-9faa-14a087616643.jpeg)-->
 
+![linke](https://user-images.githubusercontent.com/13548560/216738888-db2f8fa0-556b-4318-a40c-c69c51c846c8.png)
+
+
 # About Me
 
 Josua is a business development analyst who turns into a self-taught Machine Learning Engineer. His interests include statistical learning, predictive modeling, bayesian statistics, interpretable machine learning, and MLOps.
