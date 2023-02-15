@@ -12,7 +12,6 @@ he is keen on helping companies improve customers' digital experiences by giving
 
 ## Learn more about me on these platforms 👋
 <a href="https://medium.com/@naiborhujosua"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/naiborhu_josua">
-<a href="https://www.linkedin.com/in/josuanaiborhu/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:naiborhujosua@alumni.ui.ac.id">
 <img src="https://user-images.githubusercontent.com/13548560/211037799-eb09e9a0-5d8c-4f00-a9a1-403fb1d67f5d.png" alt="freecodecamp" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges">
