@@ -10,7 +10,7 @@ Josua is a business development analyst who turns into a self-taught Machine Lea
 
 he is keen on helping companies improve customers' digital experiences by giving a robust amount of insights and feedback regarding various problems or bugs when designing products, services, and apps.
 
-he also loves reading :books:. You can follow him on GoodReads for [my 2023 Challenges on reading more than 50++ books](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges) ranging from technical books on Machine Learning, businesss, writing and entrepreneurship.
+he also loves reading :books:. You can follow him on GoodReads for [2023 Challenges on reading more than 50++ books](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges) ranging from technical books on Machine Learning, businesss, writing and entrepreneurship.
 
 ## Learn more about me on these platforms 👋
 <a href="https://medium.com/@naiborhujosua"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/naiborhu_josua">
