@@ -6,7 +6,7 @@
 
 # About Me
 
-Josua is a business development analyst who turns into a self-taught Machine Learning Engineer. His interests include statistical learning, predictive modeling, bayesian statistics, interpretable machine learning, ethics in AI, and ML Engineering methodology.
+Josua is a business development analyst who turns into a self-taught Machine Learning Engineer. His interests include statistical learning, predictive modeling, bayesian statistics, interpretable machine learning, AI ethics, and ML Engineering methodology.
 
 he is keen on helping companies improve customers' digital experiences by giving a robust amount of insights and feedback regarding various problems or bugs when designing products, services, and apps.
 
