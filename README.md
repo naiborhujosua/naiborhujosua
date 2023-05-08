@@ -22,8 +22,5 @@ he also loves reading :books:. You can follow him on goodreads for [2023 Challen
 View the archives [naiborhujosua.github.io](https://naiborhujosua.github.io/).
 
 ---
- <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=naiborhujosua&style=for-the-badge">
-</a>
-<img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+ <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=naiborhujosua&style=for-the-badge"></a><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
 
