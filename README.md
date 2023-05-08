@@ -19,4 +19,11 @@ he also loves reading :books:. You can follow him on goodreads for [2023 Challen
 <a href="https://www.freecodecamp.org/news/author/naiborhu_josua/">
 <img src="https://user-images.githubusercontent.com/13548560/196832514-13d11f55-ca62-46ea-975d-a607e62e2acb.png" alt="freecodecamp" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
+View the archives [naiborhujosua.github.io](https://naiborhujosua.github.io/).
+
+---
+ <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=naiborhujosua&style=for-the-badge">
+</a>
+<img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
 
