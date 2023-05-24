@@ -12,6 +12,8 @@ he is keen on helping companies improve customers' digital experiences by giving
 
 he also loves reading :books:. You can follow him on goodreads for [2023 Challenges on reading more than 50++ books](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges) ranging from technical books on Machine Learning, businesss, writing, solopreneur, and entrepreneurship.
 
+he is planning to write more tutorials about  software engineering, predictive analytics, and  MLOps on his [Substack](https://substack.com/profile/11598438-josua-naiborhu). Please consider subscribing for more contents.
+
 ## Learn more about him on these platforms 👋
 <a href="https://medium.com/@naiborhujosua"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/naiborhu_josua">
 <a href="mailto:naiborhujosua@alumni.ui.ac.id">
