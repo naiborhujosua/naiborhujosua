@@ -8,7 +8,7 @@
 
 Josua is a business development analyst turned self-taught Machine Learning Engineer. His interests include statistical learning, predictive modeling, bayesian statistics, interpretable machine learning, AI ethics, and ML Engineering methodology.
 
-he is keen on helping companies improve customers' digital experiences by giving a robust amount of insights and feedback regarding various problems or bugs when designing products, services, and apps.
+he is keen on helping companies improve customers' digital experiences by giving a robust amount of insights and feedback regarding various problems or bugs when designing products, services, and apps. If your organization needs this type of consultation, you can book time with me by [scheduling an appointment](https://calendly.com/naiborhujosua/60min?month=2023-06)
 
 he also loves reading :books:. You can follow him on goodreads for [2023 Challenges on reading more than 50++ books](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges) ranging from technical books on Machine Learning, businesss, writing, solopreneur, and entrepreneurship.
 
