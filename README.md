@@ -6,7 +6,7 @@
 
 # About Me
 
-Josua is a business development analyst turned self-taught Machine Learning Engineer. His interests include statistical learning, predictive modeling, bayesian statistics, interpretable machine learning, AI ethics, and ML Engineering methodology.
+Josua is a consultant, writer, and machine learning engineer currently living in Indonesia. He has more than 4 years of working experience in various industries solving business intent leveraging AI capabilities such as insurance, transportation, and education use cases. His interests include statistical learning, predictive modeling, bayesian statistics, interpretable machine learning, AI ethics, and ML Engineering methodology.
 
 he is keen on helping companies improve customers' digital experiences by giving a robust amount of insights and feedback regarding various problems or bugs when designing products, services, and apps. If your organization needs this type of consultation, you can book time with me by [scheduling an appointment](https://calendly.com/naiborhujosua/60min?month=2023-06).
 
