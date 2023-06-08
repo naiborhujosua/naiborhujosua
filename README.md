@@ -6,13 +6,13 @@
 
 # About Me
 
-Josua is a consultant, writer, and machine learning engineer currently living in Indonesia. He has more than 4 years of working experience in various industries solving business intent leveraging AI capabilities such as insurance, transportation, and education use cases. His interests include statistical learning, predictive modeling, bayesian statistics, interpretable machine learning, AI ethics, and ML Engineering methodology.
+Josua is a consultant, writer, and machine learning engineer currently living in Indonesia. He has more than 4 years of working experience in various industries solving business intent leveraging AI capabilities such as insurance, transportation, and education use cases. His interests include statistical learning, data privacy, predictive modeling, bayesian statistics, interpretable machine learning, AI ethics, and ML Engineering methodology.
 
 he is keen on helping companies improve customers' digital experiences by giving a robust amount of insights and feedback regarding various problems or bugs when designing products, services, and apps. If your organization needs this type of consultation, you can book time with me by [scheduling an appointment](https://calendly.com/naiborhujosua/60min?month=2023-06).
 
 he also loves reading :books:. You can follow him on goodreads for [2023 Challenges on reading more than 50++ books](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges) ranging from technical books on Machine Learning, businesss, writing, and solopreneur.
 
-he is planning to write more tutorials about  software engineering, predictive analytics, data catalog, as well as MLOps on his [Substack](https://substack.com/profile/11598438-josua-naiborhu). Please consider subscribing for more contents.
+he is planning to write more tutorials about  software engineering, predictive analytics, data catalog,data privacy, as well as MLOps on his [Substack](https://substack.com/profile/11598438-josua-naiborhu). Please consider subscribing for more contents.
 
 ## Learn more about him on these platforms 👋
 <a href="https://medium.com/@naiborhujosua"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/naiborhu_josua">
