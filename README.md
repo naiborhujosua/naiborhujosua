@@ -6,13 +6,13 @@
 
 # About Me
 
-Josua is a consultant, writer, and machine learning engineer currently living in Indonesia. He has more than 4 years of working experience in various industries solving business intent leveraging AI capabilities such as insurance, transportation, and education use cases. His interests include statistical learning, data privacy, predictive modeling, bayesian statistics, interpretable machine learning, AI ethics, and ML Engineering methodology.
+Josua is a consultant, writer, and machine learning engineer based in Indonesia. With over four years of experience in various industries, he has utilized AI capabilities to solve business problems in insurance, transportation, and education. His areas of expertise include statistical learning, data privacy, predictive modeling, Bayesian statistics, interpretable machine learning, AI ethics, and ML engineering methodology.
 
-he is keen on helping companies improve customers' digital experiences by giving a robust amount of insights and feedback regarding various problems or bugs when designing products, services, and apps. If your organization needs this type of consultation, you can book time with me by [scheduling an appointment](https://calendly.com/naiborhujosua/60min?month=2023-06).
+Josua is dedicated to assisting companies in enhancing their customers’ digital experiences by providing valuable insights and feedback on product, service, and app design. Organizations interested in his consultation services may [schedule an appointment](https://calendly.com/naiborhujosua/60min?month=2023-06).
 
-he also loves reading :books:. You can follow him on goodreads for [2023 Challenges on reading more than 50++ books](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges) ranging from technical books on Machine Learning, business, writing, and solopreneur.
+In addition to his professional pursuits, Josua is an avid reader. He is participating in the [2023 Challenges](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges) with a goal of reading over 50 books on topics such as machine learning, business, writing, and entrepreneurship.
 
-he is planning to write more tutorials about  software engineering, predictive analytics, data catalog,data privacy, as well as MLOps on his [Substack](https://substack.com/profile/11598438-josua-naiborhu). Please consider subscribing for more contents.
+Josua plans to share his knowledge by writing tutorials on software engineering, predictive analytics, data cataloging, data privacy, and MLOps on his [Substack](https://substack.com/profile/11598438-josua-naiborhu). Consider subscribing for more content.
 
 ## Learn more about him on these platforms 👋
 <a href="https://medium.com/@naiborhujosua"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/naiborhu_josua">
