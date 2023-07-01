@@ -1,11 +1,3 @@
-<!-- ![](https://github.com/naiborhujosua/naiborhujosua/blob/master/GaussianProcessPosteriorPredictive_ManimCE_v0.9.0.gif) -->
-<!-- ![1500x500](https://user-images.githubusercontent.com/13548560/204091126-0dd3c9a4-89dd-4b9c-9faa-14a087616643.jpeg)-->
-
-![linke](https://user-images.githubusercontent.com/13548560/216738888-db2f8fa0-556b-4318-a40c-c69c51c846c8.png)
-
-
-# About Me
-
 Josua is a consultant, writer, and machine learning engineer based in Indonesia. With over four years of experience in various industries, he has utilized AI capabilities to solve business problems in insurance, transportation, and education. His areas of expertise include statistical learning, data privacy, predictive modeling, Bayesian statistics, interpretable machine learning, AI ethics, and ML engineering methodology.
 
 He is dedicated to assisting companies in enhancing their customers’ digital experiences by providing valuable insights and feedback on product, service, and app design. Organizations interested in his consultation services may [schedule an appointment](https://calendly.com/naiborhujosua/60min?month=2023-06).
