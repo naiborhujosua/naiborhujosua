@@ -19,7 +19,8 @@ View the archives [naiborhujosua.github.io](https://naiborhujosua.github.io/).
  ![](https://komarev.com/ghpvc/?username=naiborhujosua&color=brightgreen)<img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
 
  ---
-                                           Be so good they can't ignore you                                                   
+                                          - This Life’s Hard, But It’s Harder If You’re Stupid -
+                                                   
                                                                                             
  
 
