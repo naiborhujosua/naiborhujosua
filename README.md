@@ -19,7 +19,7 @@ View the archives [naiborhujosua.github.io](https://naiborhujosua.github.io/).
  ![](https://komarev.com/ghpvc/?username=naiborhujosua&color=brightgreen)<img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
 
  ---
-                                        -A curated list of my writing and inspiration in Machine Learning and Software Engineering -
+                                     - A curated list of my writing and inspiration in Machine Learning and Software Engineering -
                                                    
                                                                                             
  
