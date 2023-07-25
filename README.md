@@ -2,7 +2,7 @@ Josua is a consultant, blogger, and machine learning engineer based in Indonesia
 
 He is dedicated to assisting companies in enhancing their customers’ digital experiences by providing valuable insights and feedback on product, service, and app design. Organizations interested in his consultation services may [schedule an appointment](https://calendly.com/naiborhujosua/60min?month=2023-06).
 
-In addition to his professional pursuits, Josua is an avid reader. He is participating in the [2023 Challenges](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges) with a goal of reading over 50 books on topics such as machine learning, business, writing, and solopreneurship.
+On top of that, I enjoy spending my leisure time reading books. I am participating in [the 2023 Challenges](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges)  with a goal of reading over 50 books on topics such as machine learning, content creation, writing, and solopreneurship.
 
 He plans to share his knowledge by writing tutorials on software engineering, predictive analytics, data catalog, data privacy, and MLOps on his [Substack](https://substack.com/profile/11598438-josua-naiborhu). Consider subscribing for more content.
 
