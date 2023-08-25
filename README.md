@@ -5,10 +5,8 @@ He is dedicated to assisting companies in enhancing their customers’ digital e
 On top of that, He enjoys spending his leisure time reading books. He is participating in [the 2023 Challenges](https://www.goodreads.com/review/list/125884887-josua-naiborhu?shelf=2023-reading-challenges)  with a goal of reading over 50 books on topics such as **machine learning, content creation, writing, and solopreneurship**.
 
 
-## Learn more about him on these platforms 👋
+## Learn more about me on these platforms 👋
 <a href="https://medium.com/@naiborhujosua"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/naiborhu_josua">
-<a href="mailto:naiborhujosua@alumni.ui.ac.id">
-<img src="https://user-images.githubusercontent.com/13548560/211037799-eb09e9a0-5d8c-4f00-a9a1-403fb1d67f5d.png" alt="freecodecamp" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/news/author/naiborhu_josua/">
 <img src="https://user-images.githubusercontent.com/13548560/196832514-13d11f55-ca62-46ea-975d-a607e62e2acb.png" alt="freecodecamp" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
